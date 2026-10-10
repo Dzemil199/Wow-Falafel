@@ -1,0 +1,6 @@
+{
+  "name": "Wow Falafel - Mediterranean Restaurant",
+  "description": "Authentic Mediterranean street food in California City, CA. Fresh crispy falafel, handcrafted hummus, warm pita wraps, and vibrant salads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
